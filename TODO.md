@@ -6,3 +6,9 @@
 - Make a compile script to _"minify"_ all the scripts together
 - CI/CD all the things
 - The script should store a counter on the victim's computer to automatically increase nastiness applied to repeat offenders
+
+# To Look Into
+
+- Physical device integration
+    - https://github.com/mame82/P4wnP1
+    - https://wiki.bashbunny.com/#!index.md
