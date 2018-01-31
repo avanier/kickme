@@ -12,4 +12,4 @@
 
 - Track cursor position on X and flip the destination screen every time you
   touch a boundary in a multiscreen setup.
-- Provide an evil physical delivery platform like [this](https://github.com/mame82/P4wnP1)
+- Provide an evil physical delivery platform like [this](https://github.com/mame82/P4wnP1) or [this](https://n0where.net/raspberry-pi-zero-malicious-usb-attack-poisontap)
